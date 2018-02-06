@@ -1,3 +1,5 @@
+![docker](https://github.com/gkarthiks/quick-commands-cheat-sheet/blob/master/images/docker.png)
+
 | Command | Description|
 |---------|------------|
 `docker build -t <imagename> . `| Create image using this directory's Dockerfile
