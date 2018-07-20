@@ -28,3 +28,4 @@
 `docker stack ls` | List all running applications on this Docker host
 `docker stack services <appname>` | List the services associated with an app
 `docker run -v /var/run/docker.sock:/var/run/docker.sock --rm dduvnjak/dockerfile-from-image <image_id>` | Revers engineers the Dockerfile from the image.
+`docker image prune` | Removes all dangling images
