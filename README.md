@@ -13,3 +13,6 @@ See [windows command and symbols](https://github.com/gkarthiks/quick-commands-ch
 
 ### Git Comands
 See [git commands](https://github.com/gkarthiks/quick-commands-cheat-sheet/blob/master/git.md)
+
+### Grafana
+For Grafana configurations example, see [grafana.ini](https://raw.githubusercontent.com/gkarthiks/quick-commands-cheat-sheet/master/grafana-ini.md)
