@@ -1,4 +1,5 @@
 <img src="./images/docker.png">
+
 | Command | Description|
 |---------|------------|
 `docker build -t <imagename> . `| Create image using this directory's Dockerfile
