@@ -3,7 +3,7 @@
 Commands that are used very frequently for various tools or applications or projects.
 
 ### Docker Commands
-See [docker commands](docker-commands)
+See [docker commands](./docker-commands)
 
 ### Kubernetes or OpenShift Commands
 See [k8s commands](/kubernetes)
