@@ -3,16 +3,16 @@
 Commands that are used very frequently for various tools or applications or projects.
 
 ### Docker Commands
-See [docker commands](https://github.com/gkarthiks/quick-commands-cheat-sheet/blob/master/docker-commands.md)
+See [docker commands](/docker-commands)
 
 ### Kubernetes or OpenShift Commands
-See [k8s commands](https://github.com/gkarthiks/quick-commands-cheat-sheet/blob/master/kubernetes.md)
+See [k8s commands](/kubernetes)
 
 ### Windows Symbols and Commands for Batch File 
-See [windows command and symbols](https://github.com/gkarthiks/quick-commands-cheat-sheet/blob/master/windows-batch-file.md)
+See [windows command and symbols](/windows-batch-file)
 
 ### Git Comands
-See [git commands](https://github.com/gkarthiks/quick-commands-cheat-sheet/blob/master/git.md)
+See [git commands](/git)
 
 ### Grafana
-For Grafana configurations example, see [grafana.ini](https://raw.githubusercontent.com/gkarthiks/quick-commands-cheat-sheet/master/grafana-ini.md)
+For Grafana configurations example, see [grafana.ini](/grafana-ini)
