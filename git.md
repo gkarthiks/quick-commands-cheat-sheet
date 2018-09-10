@@ -4,4 +4,4 @@ git config --global http.sslVerify false | To avoid SSL certificate problem: Una
 git commit -a --allow-empty-message -m '' | To do an empty commit message
 git config --global http.sslVerify false | To set the SSL verify false
 git remote prune origin | To delete the branch locally which is not available in remote
-git -b checkout <new branch name> | To create a new branch and checkout the same
+git -b checkout < new_branch_name > | To create a new branch and checkout the same
