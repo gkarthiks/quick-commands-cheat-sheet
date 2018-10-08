@@ -8,8 +8,11 @@
 
 > set PATH=C:\ProgramData\Applications\nodejs;%PATH% 
 
-**Step 4:** Now download the stable version of `npm` from the below link.
-[https://registry.npmjs.org/npm/-/npm-{VERSION}.tgz](https://registry.npmjs.org/npm/-/npm-{VERSION}.tgz) npm package (following the documentation)
+**Step 4:** Now download the stable version of `npm` from the below link by replacing the version.
+[https://registry.npmjs.org/npm/-/npm-{VERSION}.tgz](https://registry.npmjs.org/npm/-/npm-{VERSION}.tgz)
+
+For example for npm version 6.4.1, https://registry.npmjs.org/npm/-/npm-6.4.1.tgz
+
 Unzip the npm-{VERSION}.tgz anywhere (using 7zip for example)
 Launch a cmd and cd into the place where you have unzipped npm
 Execute: node cli.js install -gf or node bin/npm-cli.js install npm -gf on certain versions (thanks to this comment)
