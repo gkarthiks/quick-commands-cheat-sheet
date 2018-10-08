@@ -4,7 +4,7 @@
 
 **Step 2:** Choose a folder to for nodeJS. For example, `C:\ProgramData\Applications\nodejs` and save the downloaded file under this folder.
 
-Step 3: Add the nodeJS folder to the environment variable `PATH`.
+**Step 3:** Add the nodeJS folder to the environment variable `PATH`.
 , let's name it <NODE_PATH>.
 Download the LTS node.exe binary for Windows and copy it to <NODE_PATH>.
 Add <NODE_PATH> to your PATH environment variable (set PATH=<NODE_PATH>;%PATH% or using Windows user interface)
