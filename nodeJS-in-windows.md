@@ -2,7 +2,7 @@
 
 **Step 1:** Download the nodeJS.exe file from the [https://nodejs.org/en/download/](https://nodejs.org/en/download/) by clicking on `All download options` and choose the right windows arch and download it.
 
-**Step 2:** Choose a folder to for nodeJS. For example, C:\ProgramData\Applications\nodejs and save the downloaded file under this folder.
+**Step 2:** Choose a folder to for nodeJS. For example, `C:\ProgramData\Applications\nodejs` and save the downloaded file under this folder.
 
 Step 2: Set 
 , let's name it <NODE_PATH>.
