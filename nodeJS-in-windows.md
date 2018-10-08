@@ -1,7 +1,8 @@
 ## Install nodeJS and npm on Windows with non-admin access
 
 **Step 1:** Download the nodeJS.exe file from the [https://nodejs.org/en/download/](https://nodejs.org/en/download/)
-**Step 1:** Choose a folder to install nodeJS. For example, C:\ProgramData\Applications\nodejs
+
+**Step 2:** Choose a folder to install nodeJS. For example, C:\ProgramData\Applications\nodejs
 
 Step 2: Set 
 , let's name it <NODE_PATH>.
