@@ -13,8 +13,8 @@
 
 For example for npm version 6.4.1, https://registry.npmjs.org/npm/-/npm-6.4.1.tgz
 
-Unzip the npm-{VERSION}.tgz anywhere (using 7zip for example)
-Launch a cmd and cd into the place where you have unzipped npm
-Execute: node cli.js install -gf or node bin/npm-cli.js install npm -gf on certain versions (thanks to this comment)
-The last command is specified in the Makefile for target install, target which the README.md invites to execute when manually installing.
-node bin/npm-cli.js install npm -gf
+**Step 5:** Now unzip the downloaded npm file anywhere and `cd` into `package` folder.
+
+**Step 6**: Execute the following command in the `cmd.exe`
+
+> node bin/npm-cli.js install npm -gf
