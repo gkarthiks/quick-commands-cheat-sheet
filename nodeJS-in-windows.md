@@ -18,3 +18,8 @@ For example for npm version 6.4.1, https://registry.npmjs.org/npm/-/npm-6.4.1.tg
 **Step 6**: Execute the following command in the `cmd.exe`
 
 > node bin/npm-cli.js install npm -gf
+
+**Step 7**: Execute the following commands to verify the installation of nodeJS and npm.
+
+> node -v
+> npm -v
