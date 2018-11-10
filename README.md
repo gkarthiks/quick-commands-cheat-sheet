@@ -18,7 +18,7 @@ See [git commands](./git)
 For Grafana configurations example, see [grafana.ini](./grafana-ini)
 
 ### Apple Mac Command
-For Apple Mac commands, see [mac-commands](./mac-commands.md)
+For Apple Mac commands, see [mac commands](./mac-commands.md)
 
 ### Unix bash commands
-For Unix bash commands, see [bash_command](./bash_command.md)
+For Unix bash commands, see [bash command](./bash_command.md)
