@@ -1,4 +1,4 @@
-Color for `echo` | Description
+Color for `echo` command | Codes
 ----|-----
 
 
