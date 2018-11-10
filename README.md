@@ -21,4 +21,4 @@ For Grafana configurations example, see [grafana.ini](./grafana-ini)
 For Apple Mac commands, see [mac-commands](./mac-commands.md)
 
 ### Unix bash commands
-For Apple Mac commands, see [mac-commands](./mac-commands.md)
+For Unix bash commands, see [bash_command](./bash_command.md)
