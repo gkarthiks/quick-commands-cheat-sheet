@@ -9,8 +9,7 @@ chore | Some house keeping activity
 fix | Fix an issue e.g. bug, typo
 bump | Increase the version of something e.g. dependency.
 refactor | A code change that MUST be just a refactoring
-
-Reformat = Refactor of formatting, e.g. omit whitespace.
+reformat | Refactor of formatting, e.g. omit whitespace
 
 Optimize = Refactor of performance, e.g. speed up code.
 
