@@ -1,5 +1,5 @@
 Verbs | Short Desc
-
+----|----
 Add = Create a capability e.g. feature, test, dependency.
 
 Cut = Remove a capability e.g. feature, test, dependency.
