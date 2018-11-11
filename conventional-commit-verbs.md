@@ -6,17 +6,9 @@ add | Create a capability e.g. feature, test, dependency
 feat | addition of some new features
 cut | Remove a capability e.g. feature, test, dependency
 chore | Some house keeping activity
-Fix = Fix an issue e.g. bug, typo, accident, misstatement.
-
-Bump = Increase the version of something e.g. dependency.
-
-
-
-Start = Begin doing something; e.g. create a feature flag.
-
-Stop = End doing something; e.g. remove a feature flag.
-
-Refactor = A code change that MUST be just a refactoring.
+fix | Fix an issue e.g. bug, typo
+bump | Increase the version of something e.g. dependency.
+refactor | A code change that MUST be just a refactoring
 
 Reformat = Refactor of formatting, e.g. omit whitespace.
 
