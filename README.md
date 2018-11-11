@@ -22,3 +22,6 @@ For Apple Mac commands, see [mac commands](./mac-commands.md)
 
 ### Unix bash commands
 For Unix bash commands, see [bash command](./bash_command.md)
+
+### Sample conventional commit verbs
+For sample conventional commit verbs, see [Sample verbs](./conventional-commit-verbs.md)
