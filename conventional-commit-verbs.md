@@ -4,7 +4,7 @@ document | Refactor of documentation, e.g. help files
 make | Change the build process, or tooling, or infra
 add | Create a capability e.g. feature, test, dependency
 cut | Remove a capability e.g. feature, test, dependency
-
+chore | Some house keeping activity
 Fix = Fix an issue e.g. bug, typo, accident, misstatement.
 
 Bump = Increase the version of something e.g. dependency.
