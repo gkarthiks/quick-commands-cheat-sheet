@@ -11,5 +11,3 @@ bump | Increase the version of something e.g. dependency
 refactor | A code change that MUST be just a refactoring
 reformat | Refactor of formatting, e.g. omit whitespace
 optimize | Refactor of performance, e.g. speed up code
-
-
