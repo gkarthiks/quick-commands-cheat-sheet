@@ -3,6 +3,7 @@ Verbs | Short Desc
 document | Refactor of documentation, e.g. help files
 make | Change the build process, or tooling, or infra
 add | Create a capability e.g. feature, test, dependency
+feat | addition of some new features
 cut | Remove a capability e.g. feature, test, dependency
 chore | Some house keeping activity
 Fix = Fix an issue e.g. bug, typo, accident, misstatement.
