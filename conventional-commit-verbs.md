@@ -7,10 +7,9 @@ feat | addition of some new features
 cut | Remove a capability e.g. feature, test, dependency
 chore | Some house keeping activity
 fix | Fix an issue e.g. bug, typo
-bump | Increase the version of something e.g. dependency.
+bump | Increase the version of something e.g. dependency
 refactor | A code change that MUST be just a refactoring
 reformat | Refactor of formatting, e.g. omit whitespace
-
-Optimize = Refactor of performance, e.g. speed up code.
+optimize | Refactor of performance, e.g. speed up code
 
 
