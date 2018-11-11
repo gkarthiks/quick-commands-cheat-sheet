@@ -1,5 +1,6 @@
 Verbs | Short Desc
 ----|----
+document | Refactor of documentation, e.g. help files.
 add | Create a capability e.g. feature, test, dependency.
 
 Cut = Remove a capability e.g. feature, test, dependency.
@@ -20,4 +21,4 @@ Reformat = Refactor of formatting, e.g. omit whitespace.
 
 Optimize = Refactor of performance, e.g. speed up code.
 
-Document = Refactor of documentation, e.g. help files.
+
