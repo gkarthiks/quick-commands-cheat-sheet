@@ -15,7 +15,7 @@ Commands that are used very frequently for various tools or applications or proj
     </tr>
     <tr>
         <td align="center">Apple Mac Command</td>
-      <td align="center"><a href="./bash_command">Bash commands</a></td>
-        <td align="center">conventional commit verbs</td>
+      <td align="center"><a href="./bash_command">Bash color codes</a></td>
+        <td align="center"><a href="./conventional-commit-verbs">Conventional Commit Verbs</a> </td>
     </tr>
 </table>
