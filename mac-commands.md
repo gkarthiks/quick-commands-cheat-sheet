@@ -5,3 +5,4 @@ Command | Description
 `sudo mdutil -E /` | Re-indexing for Spotlight
 `mdfind -name <application name>` | To get all the places where the application is referenced
 `sudo osascript -e 'set volume input volume <integer volume level>'` | To change the volume of the system
+`sudo osascript -e 'set volume output muted <TRUE/FALSE>'` | Set the volume to mute/unmute
