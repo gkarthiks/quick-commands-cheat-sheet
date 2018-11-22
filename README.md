@@ -20,7 +20,7 @@ Commands that are used very frequently for various tools or applications or proj
     </tr>
     <tr>
         <td align="center"><a href="./docker-commands">Docker Commands</a></td>
-        <td align="center"><a href="./nodeJS-in-windows.md">node.JS in windows without admin</a></td>
+        <td align="center"><a href="./nodeJS-in-windows">node.JS in windows without admin</a></td>
         <td align="center"><a href="./conventional-commit-verbs">Conventional Commit Verbs</a> </td>
     </tr>
 
