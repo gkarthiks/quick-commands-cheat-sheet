@@ -4,8 +4,8 @@ Commands that are used very frequently for various tools or applications or proj
 
 <table align="center">
     <tr>
-        <td align="center"><a href="./docker-commands">Docker Commands</a></td>
         <td align="center"><a href="./kubernetes">Kubernetes or OpenShift Commands</a></td>
+        <td align="center"><a href="./docker-commands">Docker Commands</a></td>
         <td align="center"><a href="./windows-powershell">Windows PowerShell</a></td>
     </tr>
     <tr>
@@ -14,14 +14,14 @@ Commands that are used very frequently for various tools or applications or proj
         <td align="center"><a href="./grafana-ini">Grafana sample ini</a></td>
     </tr>
     <tr>
-        <td align="center"><a href="./mac-commands">Apple Mac Command</a></td>
-      <td align="center"><a href="./bash_command">Bash color codes</a></td>
+        <td align="center"><a href="./get-resources">OpenShift oc - CLI tricks</a></td>
+        <td align="center"><a href="./bash_command">Bash color codes</a></td>
         <td align="center"><a href="./conventional-commit-verbs">Conventional Commit Verbs</a> </td>
     </tr>
     <tr>
         <td align="center"><a href="./windows-batch-file">Windows Batch file operators</a></td>
         <td align="center"><a href="./nodeJS-in-windows.md">node.JS in windows without admin</a></td>
-        <td align="center"><a href=""></a> </td>
+        <td align="center"><a href="./mac-commands">Apple Mac Command</a></td>
     </tr>
 
 </table>
