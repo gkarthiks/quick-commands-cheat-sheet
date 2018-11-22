@@ -2,26 +2,20 @@
 
 Commands that are used very frequently for various tools or applications or projects.
 
-### Docker Commands
-See [docker commands](./docker-commands)
-
-### Kubernetes or OpenShift Commands
-See [k8s commands](./kubernetes)
-
-### Windows Symbols and Commands for Batch File 
-See [windows command and symbols](./windows-batch-file)
-
-### Git Comands
-See [git commands](./git)
-
-### Grafana
-For Grafana configurations example, see [grafana.ini](./grafana-ini)
-
-### Apple Mac Command
-For Apple Mac commands, see [mac commands](./mac-commands.md)
-
-### Unix bash commands
-For Unix bash commands, see [bash command](./bash_command.md)
-
-### Sample conventional commit verbs
-For sample conventional commit verbs, see [Sample verbs](./conventional-commit-verbs.md)
+<table align="center">
+    <tr>
+        <td align="center">Docker Commands</td>
+        <td align="center">Kubernetes or OpenShift Commands</td>
+        <td align="center">Windows Symbols and Commands</td>
+    </tr>
+    <tr>
+        <td align="center"><a src="docs/img2.png?raw=true" alt="some text"></td>
+        <td align="center">Git Comands</td>
+        <td align="center">Grafana sample ini</td>
+    </tr>
+    <tr>
+        <td align="center">Apple Mac Command</td>
+      <td align="center"><a href="./bash_command.md">Bash commands</a></td>
+        <td align="center">conventional commit verbs</td>
+    </tr>
+</table>
