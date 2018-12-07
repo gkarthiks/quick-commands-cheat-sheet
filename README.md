@@ -24,7 +24,7 @@ Commands that are used very frequently for various tools or applications or proj
         <td><a href="./conventional-commit-verbs">Conventional Commit Verbs</a> </td>
     </tr>
     <tr>
-        <td><a href="./unix_commands.md">UNIX Commands</a></td>
+        <td><a href="./unix_commands">UNIX Commands</a></td>
         <td><a href=""></a></td>
         <td><a href=""></a> </td>
     </tr>
