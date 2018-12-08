@@ -1,3 +1,5 @@
+### Kubernetes Commands
+
 | Command | Description |
 | --------| ----------- |
 | To reclaim the PV after the pod is deleted |  `oc patch pv/<pv_name>  --type json -p $'- op: remove\n  path: /spec/claimRef'` <br/> <sup>*</sup> Give double space after the \n |
