@@ -1,3 +1,5 @@
+### Bash Colors
+
 Color for `echo` command | Codes | Usage
 ----|-----| ---
 Black | 0;30 | '\033\[0;30m'
