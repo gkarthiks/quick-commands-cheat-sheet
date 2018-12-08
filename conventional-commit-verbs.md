@@ -1,3 +1,5 @@
+### Sample Conventional Commit Verbs
+
 Verbs | Short Desc
 ----|----
 document | Refactor of documentation, e.g. help files
