@@ -1,4 +1,4 @@
-<img src="./images/docker.png">
+<img src="./images/docker.png" style="height:50px" >
 
 | Command | Description|
 |---------|------------|
