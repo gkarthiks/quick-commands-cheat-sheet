@@ -29,3 +29,4 @@ Command | Description
 `ibmcloud cr image-rm <image>` | Removes the image from the container registry
 `ibmcloud cs cluster-config <cluster_name>` | Downloads the *kube-config* file
 `ibmcloud cf services` | Lists the services created in Cloud Foundry 
+`ibmcloud cs cluster-service-bind <cluster_name> default <service_name>` | Binds a service to a cluster
