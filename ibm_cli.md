@@ -20,6 +20,7 @@ Command | Description
 `ibmcloud plugin list` | List of installed plugins for cli
 `ibmcloud cr` | IBM Container registry cli command
 `ibmcloud cs clusters` | List the clusters
+`ibmcloud cs workers <worker_name>` | Lists the workers in the cluster
 `ibmcloud plugin install container-registry -r Bluemix` | Installs the container registry in local
 `ibmcloud plugin show container-registry` | Displays the details of the registry installed via pevious command
 `ibmcloud cr info` | Container Registry details
