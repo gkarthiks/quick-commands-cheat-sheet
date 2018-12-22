@@ -1,4 +1,4 @@
-### IBM Cloud Foundry's cli commands
+### IBM Cloud's cli commands
 
 ##### Install: 
 ```bash
