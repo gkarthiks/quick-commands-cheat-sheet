@@ -18,3 +18,7 @@ Command | Description
 `ibmcloud target -o <value> -s <value>` | Sets the *organization* and *space*
 `ibmcloud plugin list` | List of installed plugins for cli
 `ibmcloud cr` | IBM Container registry cli command
+`ibmcloud plugin install container-registry -r Bluemix` | Installs the container registry in local
+`ibmcloud plugin show container-registry` | Displays the details of the registry installed via pevious command
+`ibmcloud cr info` | Container Registry details
+`` | 
