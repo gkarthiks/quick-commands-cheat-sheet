@@ -26,3 +26,4 @@ Command | Description
 `ibmcloud cr info` | Container Registry details
 `ibmcloud cr login` | Logs into the IBM Cloud registry
 `ibmcloud cr namespace-add <namespace>` | Creates a namespace in container registry
+`ibmcloud cs cluster-config <cluster_name>` | Downloads the *kube-config* file
