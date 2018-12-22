@@ -8,3 +8,5 @@
 | Force delete namespace that stuck in finalizer issue | [Click here](https://github.com/gkarthiks/quick-commands-cheat-sheet/blob/master/force-delete-kubernetes-namespace.md) |
 | To delete the POD immediately without waiting | `kubectl delete pod <pod_name> --now` **or** `kubectl delete pods <pod_name> --grace-period=0 --force`|
 | If you have [Kubeless](https://kubeless.io) function deployed and function not getting deleted | `kubectl patch function <function_name> -p '{"metadata":{"finalizers":[]}}' --type=merge`
+|`kubectl rollout status deployment/<deployment_name>`|Watches the deployment and logs all the status changes|
+|`kubectl rollout undo deployment/<deployment_name>`|Rolls back the recent deployment|
