@@ -1,13 +1,13 @@
 ### IBM Cloud Foundry's cli commands
 
-Install: 
+##### Install: 
 ```bash
-curl -sL https://ibm.biz/idt-installer | bash
+$ curl -sL https://ibm.biz/idt-installer | bash
 ```
 
-Configure Env: 
+#####  Configure Env: 
 ```bash
-ibmcloud api https://api.ng.bluemix.net
+$ ibmcloud api https://api.ng.bluemix.net
 ```
 
 
