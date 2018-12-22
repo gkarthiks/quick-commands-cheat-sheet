@@ -7,6 +7,7 @@
 `docker build -t <imagename> . `| Create image using this directory's Dockerfile
 `docker run -p 4000:80 <imagename>` | Run "friendlyname" mapping port 4000 to 80
 `docker run -d -p 4000:80 <imagename>` | Same thing, but in detached mode
+`docker exec -it <container_id> bash\sh` | Execs into the running container
 `docker ps` | See a list of all running containers
 `docker stop <hash>` | Gracefully stop the specified container
 `docker ps -a` | See a list of all containers, even the ones not running
