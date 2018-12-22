@@ -29,4 +29,5 @@ Command | Description
 `ibmcloud cr image-rm <image>` | Removes the image from the container registry
 `ibmcloud cs cluster-config <cluster_name>` | Downloads the *kube-config* file
 `ibmcloud cf services` | Lists the services created in Cloud Foundry 
+`ibmcloud cf create-service tone_analyzer standard <service_name>` | Creates the IBM Watson Tone Analyzer service Note: the name should match the regex: `[a-z0-9]([-a-z0-9]*[a-z0-9])?(\.[a-z0-9]([-a-z0-9]*[a-z0-9])?)*`
 `ibmcloud cs cluster-service-bind <cluster_name> default <service_name>` | Binds a service to a cluster
