@@ -23,3 +23,4 @@ Command | Description
 `ibmcloud plugin show container-registry` | Displays the details of the registry installed via pevious command
 `ibmcloud cr info` | Container Registry details
 `ibmcloud cr login` | Logs into the IBM Cloud registry
+` ibmcloud cr namespace-add <namespace>` | Creates a namespace in container registry
