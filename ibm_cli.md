@@ -20,5 +20,6 @@ Command | Description
 `ibmcloud cr` | IBM Container registry cli command
 `ibmcloud plugin install container-registry -r Bluemix` | Installs the container registry in local
 `ibmcloud plugin show container-registry` | Displays the details of the registry installed via pevious command
-`ibmcloud cr info` | Container Registry details
 `ibmcloud login --sso` | Opens a browser with a *One-time code* for sso login
+`ibmcloud cr info` | Container Registry details
+`ibmcloud cr login` | Logs into the IBM Cloud registry
