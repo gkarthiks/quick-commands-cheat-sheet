@@ -28,3 +28,4 @@ Command | Description
 `ibmcloud cr namespace-add <namespace>` | Creates a namespace in container registry
 `ibmcloud cr image-rm <image>` | Removes the image from the container registry
 `ibmcloud cs cluster-config <cluster_name>` | Downloads the *kube-config* file
+`ibmcloud cf services` | Lists the services created in Cloud Foundry 
