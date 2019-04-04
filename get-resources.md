@@ -12,3 +12,8 @@ for result in $(oc get clusterrolebinding -o json | jq -r ".items[] | .groupName
   echo $result
 done
 ```
+
+### Delete non-running pods
+```shell
+kubectl delete pods --field-selector=status.phase!=Running
+```
