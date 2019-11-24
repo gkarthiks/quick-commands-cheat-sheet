@@ -51,3 +51,38 @@ The above command should give the time splits as follows.
 nslookup is used to resolve the IP address to a FQDN (Fully Qualified Domain Name).
 
 `nslookup <IP>`
+
+# dig
+domain information groper used to query DNS
+
+```
+dig google.com
+```
+
+```
+; <<>> DiG 9.10.6 <<>> google.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 38902
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; ANSWER SECTION:
+google.com.		227	IN	A	172.217.164.110
+
+;; Query time: 15 msec
+;; SERVER: 2001:558:feed::1#53(2001:558:feed::1)
+;; WHEN: Sun Nov 24 12:36:49 PST 2019
+;; MSG SIZE  rcvd: 55
+```
+
+# traceroute
+traceroute or tracert used to display the hops and measure latency in the network
+
+# ping
+ping is used to check the reachability
+
