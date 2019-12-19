@@ -28,5 +28,7 @@ Commands that are used very frequently for various tools or applications or proj
         <td><a href="./unix_commands">UNIX Commands</a></td>
         <td><a href="./networking">Networking Tricks</a></td>
     </tr>
-
+    <tr>
+        <td><a href="./openssl">OpenSSL Commands</a></td>
+    </tr>
 </table>
