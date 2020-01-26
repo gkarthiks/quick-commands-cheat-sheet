@@ -9,3 +9,4 @@ git remote prune origin | To delete the branch locally which is not available in
 git -b checkout < new_branch_name > | To create a new branch and checkout the same
 git update-index --assume-unchanged < file > | To ignore a changed file
 git update-index --no-assume-unchanged < file > | To revert that ignorance by the previous command
+Squashing for Upstream |git fetch upstream <br/>git checkout \<your branch\><br/>git rebase -i upstream/master<br/><br/><I>choose squash for commits which needs to be squashed</I><br/><br/>git push origin \<your branch\> -f
