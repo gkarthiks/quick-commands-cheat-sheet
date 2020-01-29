@@ -22,6 +22,6 @@ kubectl delete pods --field-selector=status.phase!=Running
 
 <pre>
 <code>
-kubectl get pod  -o go-template='{{"\n==================================================================\n"}}{{ range .items }}{{"Pod Name: "}}{{$podname := .metadata.name}}{{$podname}}{{"\n---------"}}{{ range .spec.containers}}{{"\n\tContainer Name: "}}{{ .name }}{{"\n\t---------------\n\t\tRequests: "}}{{ .resources.requests }}{{"\n\t\tLimits: "}}{{ .resources.limits }}{{"\n"}}{{ end }}{{ range .spec.initContainers}}{{"\n\tInitContainer Name:"}}{{.name}}{{"\n\t-------------------\n\t\tRequests: "}}{{ .resources.requests }}{{"\n\t\tLimits: "}}{{ .resources.limits }}{{"\n"}}{{ end }}{{"==================================================================\n\n"}}{{end}}'
+kubectl get pod  -o go-template='\{\{"\n==================================================================\n"\}\}\{\{ range .items \}\}\{\{"Pod Name: "\}\}\{\{$podname := .metadata.name\}\}\{\{$podname\}\}\{\{"\n---------"\}\}\{\{ range .spec.containers\}\}\{\{"\n\tContainer Name: "\}\}\{\{ .name \}\}\{\{"\n\t---------------\n\t\tRequests: "\}\}\{\{ .resources.requests \}\}\{\{"\n\t\tLimits: "\}\}\{\{ .resources.limits \}\}\{\{"\n"\}\}\{\{ end \}\}\{\{ range .spec.initContainers\}\}\{\{"\n\tInitContainer Name:"\}\}\{\{.name\}\}\{\{"\n\t-------------------\n\t\tRequests: "\}\}\{\{ .resources.requests \}\}\{\{"\n\t\tLimits: "\}\}\{\{ .resources.limits \}\}\{\{"\n"\}\}\{\{ end \}\}\{\{"==================================================================\n\n"\}\}\{\{end\}\}'
 </code>
 </pre>
