@@ -11,7 +11,8 @@ Command | Description
 `osascript -e 'tell app "System Events" to <shut down/restart>'` | Shutdown/ Restart the system without confirmation
 `sudo osascript -e 'quit app "terminal.app"'` | Quits terminal app
 `sudo osascript -e 'quit app "<app_name>"'` | quits the specified app
-
+`sudo pkill TouchBarServer;` | To kill/restart the touch bar in Apple MacBook Pro
+`sudo killall “ControlStrip";` | To kill/restart the control strip  in Apple MacBook Pro
 
 
 
