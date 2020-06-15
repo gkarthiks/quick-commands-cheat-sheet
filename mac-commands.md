@@ -13,6 +13,7 @@ Command | Description
 `sudo osascript -e 'quit app "<app_name>"'` | quits the specified app
 `sudo pkill TouchBarServer;` | To kill/restart the touch bar in Apple MacBook Pro
 `sudo killall “ControlStrip";` | To kill/restart the control strip  in Apple MacBook Pro
+`sudo powermetrics` | Gather and display CPU usage statistics
 
 
 
