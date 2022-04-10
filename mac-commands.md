@@ -14,6 +14,7 @@ Command | Description
 `sudo pkill TouchBarServer;` | To kill/restart the touch bar in Apple MacBook Pro
 `sudo killall “ControlStrip";` | To kill/restart the control strip  in Apple MacBook Pro
 `sudo powermetrics` | Gather and display CPU usage statistics
+`sudo killall coreaudiod` | Fix the Dound Output issues with Mac
 
 
 
