@@ -10,3 +10,5 @@
 | If you have [Kubeless](https://kubeless.io) function deployed and function not getting deleted | `kubectl patch function <function_name> -p '{"metadata":{"finalizers":[]}}' --type=merge`
 |`kubectl rollout status deployment/<deployment_name>`|Watches the deployment and logs all the status changes|
 |`kubectl rollout undo deployment/<deployment_name>`|Rolls back the recent deployment|
+| `kubectl get --raw /metrics \| grep apiserver_storage_objects` | How many things do I have in etcd
+| `kubectl get --raw /metrics \| grep etcd.*.sum` | Is etcd being slow
