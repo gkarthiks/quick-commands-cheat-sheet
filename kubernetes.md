@@ -13,3 +13,4 @@
 | `oc patch pvc <pvc_name> -p '{"spec":{"volumeName": <volume_name>}'` | To change the volume name in existing PVC |
 | `kubectl patch function <function_name> -p '{"metadata":{"finalizers":[]}}' --type=merge` | If you have [Kubeless](https://kubeless.io) function deployed and function not getting deleted |
 | `kubectl get {kind}.{version}.{group}` | Query the resources using its GVK(R)
+| `kubectl explain {kind} --api-version={desired api version}` | To get the kubectl explain docs for an object at the desired apiVersion
