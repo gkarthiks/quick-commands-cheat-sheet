@@ -12,3 +12,4 @@
 | `oc patch pv/<pv_name>  --type json -p $'- op: remove\n  path: /spec/claimRef'` | To reclaim the PV after the pod is deleted <br/> <sup>*</sup> Give double space after the \n |
 | `oc patch pvc <pvc_name> -p '{"spec":{"volumeName": <volume_name>}'` | To change the volume name in existing PVC |
 | `kubectl patch function <function_name> -p '{"metadata":{"finalizers":[]}}' --type=merge` | If you have [Kubeless](https://kubeless.io) function deployed and function not getting deleted |
+| `kubectl get {kind}.{version}.{group}` | Query the resources using its GVK(R)
