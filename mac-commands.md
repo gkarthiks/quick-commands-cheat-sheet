@@ -15,7 +15,7 @@ Command | Description
 `sudo killall “ControlStrip";` | To kill/restart the control strip  in Apple MacBook Pro
 `sudo powermetrics` | Gather and display CPU usage statistics
 `sudo killall coreaudiod` | Fix the Dound Output issues with Mac
-
+`sudo spctl --master-disable` | disables Gatekeeper to open any app that's not from trusted source
 
 
 
