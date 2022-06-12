@@ -7,7 +7,7 @@ git config --global user.name "[username]" | configure the username
 git config --global user.email "[email]" | configure the email
 git config --global color.ui auto | configure colors
 git config --global alias.c "commit -ma" | configure alias for git commands
-git config --system core.editor vim | configure tge text edito like VIM
+git config --system core.editor vim | configure the text editor like VIM
 git commit -a --allow-empty-message -m '' | To do an empty commit message
 git config --global http.sslVerify false | To set the SSL verify false
 git remote prune origin | To delete the branch locally which is not available in remote
